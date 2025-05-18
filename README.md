@@ -16,7 +16,7 @@ UrlShortener/
 ├── UrlShortener.Core/           # Domain models & interfaces
 ├── UrlShortener.Infrastructure/ # EF Core + database context and repositories
 ├── UrlShortener.sln             # Solution file
-
+```
 ## ⚙️ Backend Setup (`UrlShortener.Api`)
 
 ### Prerequisites
