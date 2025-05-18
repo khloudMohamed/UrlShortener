@@ -6,14 +6,8 @@ Backend: ASP.NET Core (.NET 8), SQLite, EF Core
 Frontend: React + TypeScript + Axios
 
 ⚙️ Backend – Setup Instructions
-📁 Project Structure
-**
-UrlShortener/
-├── UrlShortener.Api/             # Web API project (entry point)
-├── UrlShortener.Core/           # Domain models & interfaces
-├── UrlShortener.Infrastructure/ # EF Core + database context
-├── UrlShortener.sln             # Solution file
-**
+<pre> <code>```bash 📁 Project Structure UrlShortener/ ├── UrlShortener.Api/ # Web API project (entry point) ├── UrlShortener.Core/ # Domain models & interfaces ├── UrlShortener.Infrastructure/ # EF Core + database context ├── UrlShortener.sln # Solution file ```</code> </pre>
+
 ✅ Prerequisites
 .NET 8 SDK
 
