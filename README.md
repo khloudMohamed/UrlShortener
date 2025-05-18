@@ -7,13 +7,13 @@ Frontend: React + TypeScript + Axios
 
 ⚙️ Backend – Setup Instructions
 📁 Project Structure
-graphql
+**
 UrlShortener/
 ├── UrlShortener.Api/             # Web API project (entry point)
 ├── UrlShortener.Core/           # Domain models & interfaces
 ├── UrlShortener.Infrastructure/ # EF Core + database context
 ├── UrlShortener.sln             # Solution file
-
+**
 ✅ Prerequisites
 .NET 8 SDK
 
