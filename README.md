@@ -31,3 +31,30 @@ UrlShortener/
    ```bash
    git clone https://github.com/your-username/urlshortener.git
    cd urlshortener
+   ```
+
+2. **Restore NuGet packages
+
+```bash
+dotnet restore
+```
+3. **Apply EF Core migrations
+Make sure you’re in the root folder of the solution, then run:
+
+
+```bash
+dotnet ef database update --project UrlShortener.Infrastructure --startup-project UrlShortener.Api
+```
+
+4. **Run the API
+
+```bash
+dotnet run --project UrlShortener.Api
+```
+
+###Access API
+Swagger UI: https://localhost:7250/swagger
+
+POST /urls/shorten: Accepts { "url": "https://example.com" } and returns a short code.
+
+GET /{shortCode}: Redirects to the original URL.
