@@ -54,6 +54,34 @@ dotnet run --project UrlShortener.Api
 
 5. **Access API**
 Swagger UI: https://localhost:7250/swagger
+
 POST /urls/shorten: Accepts { "url": "https://example.com" } and returns a short code.
+
 GET /{shortCode}: Redirects to the original URL.
+
+## 🌐 Frontend Setup (React + TypeScript)
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v18+)
+- [Yarn](https://yarnpkg.com/) or `npm`
+
+---
+
+### Setup Instructions
+
+#### 1. Navigate to the frontend directory
+
+```bash
+cd frontend
+
+2. Install dependencies
+
+yarn install
+# or
+npm install
+
+3. Create a .env file
+
+REACT_APP_API_BASE_URL=https://localhost:7250
 
