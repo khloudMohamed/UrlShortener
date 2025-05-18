@@ -1,0 +1,11 @@
+C:\Users\TDS\Desktop\KHloud\tasks\task2\UrlShortener.Core\bin\Debug\net9.0\UrlShortener.Core.deps.json
+C:\Users\TDS\Desktop\KHloud\tasks\task2\UrlShortener.Core\bin\Debug\net9.0\UrlShortener.Core.dll
+C:\Users\TDS\Desktop\KHloud\tasks\task2\UrlShortener.Core\bin\Debug\net9.0\UrlShortener.Core.pdb
+C:\Users\TDS\Desktop\KHloud\tasks\task2\UrlShortener.Core\obj\Debug\net9.0\UrlShortener.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TDS\Desktop\KHloud\tasks\task2\UrlShortener.Core\obj\Debug\net9.0\UrlShortener.Core.AssemblyInfoInputs.cache
+C:\Users\TDS\Desktop\KHloud\tasks\task2\UrlShortener.Core\obj\Debug\net9.0\UrlShortener.Core.AssemblyInfo.cs
+C:\Users\TDS\Desktop\KHloud\tasks\task2\UrlShortener.Core\obj\Debug\net9.0\UrlShortener.Core.csproj.CoreCompileInputs.cache
+C:\Users\TDS\Desktop\KHloud\tasks\task2\UrlShortener.Core\obj\Debug\net9.0\UrlShortener.Core.dll
+C:\Users\TDS\Desktop\KHloud\tasks\task2\UrlShortener.Core\obj\Debug\net9.0\refint\UrlShortener.Core.dll
+C:\Users\TDS\Desktop\KHloud\tasks\task2\UrlShortener.Core\obj\Debug\net9.0\UrlShortener.Core.pdb
+C:\Users\TDS\Desktop\KHloud\tasks\task2\UrlShortener.Core\obj\Debug\net9.0\ref\UrlShortener.Core.dll
